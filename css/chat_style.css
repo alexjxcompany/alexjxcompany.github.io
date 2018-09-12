@@ -1,0 +1,17 @@
+.Formst{
+  padding: 30px;
+   background: #ccc;
+   position: fixed; top: 70%; left: 50%;
+   -webkit-transform: translate(-50%, -70%);
+   -ms-transform: translate(-50%, -70%);
+   transform: translate(-50%, -70%);
+}
+textarea{
+  position: fixed; top: 30%; left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+resize: none;
+width: 500px;
+height: 300px;
+}
